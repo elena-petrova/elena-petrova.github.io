@@ -1,22 +1,13 @@
-joelglovier.com [![Build Status](https://travis-ci.org/jglovier/jglovier.github.io.png)](https://travis-ci.org/jglovier/jglovier.github.io)
+datageekette.com [![Build Status](https://travis-ci.org/elena-petrova/elena-petrova.github.io.png)]
 ==================
 
 ## About the Site
 
-This site is my personal home on the World Wide Intarnetz™. I write about stuff, I link to other stuff, and I showcase stuff I've done/built/designed. It's purely personal in nature and does not necessarily reflect the views of my wonderful employer, my Murica, my tattoo artist, my barber or my neighbor's dog. But it's where I represent, yo!
+This site is my personal home and product page. I write about stuff, I link to other stuff, I sell my guides and I showcase stuff I've done/built. It's purely personal in nature and does not necessarily reflect the views of my wonderful employer.
 
-It lives here: [joelglovier.com](http://joelglovier.com)
-
-For more about the latest iteration, read this blog post: [joelglovier.com/writing/redesigning-and-rebuilding/](http://joelglovier.com/writing/redesigning-and-rebuilding/)
+It lives here: [datageekette.com](http://datageekette.com)
 
 Many of the post images are retouched versions of photos I found at [Unsplash](http://unsplash.com/). If you are looking for great photos to use on your own blog, they have a great collection all free for public use.
-
-## Running locally
-
-1. Clone locally via GitHub Desktop, or via CLI: `git clone https://github.com/jglovier/jglovier.github.io.git`
-2. Install dependencies: `bundle install`
-3. Run the Jekyll Server: `bundle exec jekyll serve`
-4. View in browser at `http://localhost:4000`
 
 ## Licensing
 

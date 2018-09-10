@@ -1,8 +1,8 @@
-name:           Joel Glovier's Blog
+name:           Data Geekette
 
-description:    "The personal site of Joel Andrew Glovier, designer and front-end technologist. Where I write about code, design, faith, food, and life. Views expressed are my own. Use code at your own risk."
+description:    "The personal site of Data Geekette, machine learning engineer and data science mentor. Where I write about data science, code, design and life. Views expressed are my own."
 
-url:            http://joelglovier.com
+url:            http://datageekette.com
 
 gems:
   - jekyll-redirect-from
