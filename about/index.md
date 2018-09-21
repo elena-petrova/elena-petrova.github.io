@@ -5,24 +5,24 @@ title: About
 
 ### 👋 Hi! I’m Elena and I do machine learning at [Comtravo](https://www.comtravo.com/)
 
-I don't have a typical background, as one might say, for what I do. I possess a Bachelor in Economics and Management from the University of Bordeaux, France.
-Not long after graduating, I moved to Berlin, Germany.
+Let me tell you right away, I don't have a typical background, as one might say, for what I do. I hold a Bachelor's Degree of Economics and Management. No Computer Science magic.
 
-In attempts of trying to find myself, I have decided to become a Data Scientist: people were keep talking about data and machine learning. And even though I was scared by this wolrd, I decided to give it a try and got hooked.
-Ten intense months of absorbing online materials, wrangling data at [Kaggle](https://www.kaggle.com/), publishing my data projects at [Github](https://github.com/ )and trying not to fall into despair.
+After graduating, I had no idea what I am supposed to do. So in attepts to find myself, I moved to Berlin where I live since then.
 
-And here I am. Starting my second Data Science job, after a year of valuable experience at [Auto1](https://auto1.com/). This time though as a Machine Learning Engineer as I felt more dascinated by designing solutions and engineering.
+In 2016 people started buzzing about Data and Machine Learning, and so I thought to myself: "I like tech, I am interested in code and creating new things, and I surely like the idea of analysing data. So maybe I should give it a try!".
 
-I enjoy [writing](/writing/) about things I learn. Occasioanylly, I [speak](http://github.com/jglovier/speaking) at local conferences and meetups. I also enjoy contributing to the community. During the time from 2016 to 2018 I was working with non profit organizations [FrauenLoop](https://www.frauenloop.org/) and [Future Legends Berlin(https://www.facebook.com/futurelegendsberlin/) and was creating Data Science with Python curriculums and Computer Science courses.
+Even though I was scared by the IT world, it fascinated me! __I decided to dive in and stick to it__.
 
-Now I am writing articles and creating open-source and custom [guides](/#guides) for people who want to become Data Scientists and have no initial background in the field.
+After [ten intense months of absorbing online materials](https://www.quora.com/What-should-I-study-on-my-own-to-become-a-data-scientist/answer/Elena-Petrova-16?__filter__=&__nsrc__=2&__snid3__=3254244893), wrangling data at [Kaggle](https://www.kaggle.com/), publishing results at [Github](https://github.com/) and of course trying not to fall into the despair, here I am now: at my second Data Science position, as a Machine Learning Engineer at [Comtravo](https://www.comtravo.com/) where I work on the core product, analyse text data and build machine learning models.
 
+I am still searching for myself, but my way has become clearer already. And everything __thanks to the opportunities the IT world provides__.
 
-<h2 id="site-credits">Site credits</h2>
+### Contribution
+I enjoy [writing](/writing/) about stuff I learn. Occasioanylly, I [speak](/speaking/) at local conferences and meetups.
+During the period 2016/2018 I was co-creating and mentoring Data Science with Python curriculums and Computer Science courses for non-profit organizations [FrauenLoop](https://www.frauenloop.org/) and [Future Legends Berlin](https://www.facebook.com/futurelegendsberlin/).
+Now I am writing articles and creating [self-learning guides](/#guides) for aspiring Data Professionals that have no initial background in the field.
 
-
-### Build details and tooling
-
+<!--
 - This site was built with the static site generator [Jekyll](https://jekyllrb.com/), utilizing the personal website templatate of [wonderful Joel Glovier](http://github.com/jglovier), and hosted on [GitHub Pages](https://pages.github.com/). Source code is available on [GitHub](github.com/jglovier/jglovier.github.io/).
 - Typography courtesy of Google Fonts:
   - [Montserrat](https://fonts.google.com/specimen/Montserrat) (headings)
@@ -30,4 +30,4 @@ Now I am writing articles and creating open-source and custom [guides](/#guides)
   - [Rooney Sans](https://typekit.com/fonts/rooney-sans) (long form body copy)
   - [Lora](https://fonts.google.com/specimen/Lora) (where serif is used)
 - [Social media icons](https://creativemarket.com/gedy/21158-Vector-Social-Media-Icons-Bundle) by [Gedy Leon](https://creativemarket.com/gedy)
-- [Basscss](http://basscss.com/) utility classes by [Jxnblk](http://jxnblk.com/)
+- [Basscss](http://basscss.com/) utility classes by [Jxnblk](http://jxnblk.com/)-->
