@@ -1,6 +1,6 @@
 <head>
   <meta charset="UTF-8">
-  <title>{% if page.title %}{{ page.title }}{% else %}joelglovier.com{% endif %}</title>
+  <title>{% if page.title %}{{ page.title }}{% else %}datageekette.com{% endif %}</title>
 
   <!-- styling -->
   
@@ -17,9 +17,8 @@
 
   <!-- for search engines and other machines -->
   <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
-  <link rel="author" href="https://plus.google.com/+JoelGlovier/posts">
-  <link href='http://joelglovier.com/feed.xml' rel='alternate' type='application/rss+xml'>
-  <meta name="copyright" content="Joel Andrew Glovier 2013" />
+  <link href='http://datageekette.com/feed.xml' rel='alternate' type='application/rss+xml'>
+  <meta name="copyright" content="datageekette" />
   <meta name="description" content="{{ site.description }}" />
   <meta name="robots" content="index, follow" />
   <meta name="google-site-verification" content="rfhW_LUYYbZ4kwHGGZqplNsGs5eFB1-H8UEfmF6lE9o" />
@@ -34,14 +33,13 @@
   <!-- for social media -->
 
   {% if page.categories %}
-  <meta property="og:image" content="http://joelglovier.com/img/ogimgs/{{ page.categories | first }}.jpg" />
-  <meta property="og:author" content="https://www.facebook.com/joelglovier" />
+  <meta property="og:image" content="http://datageekette.com/img/ogimgs/{{ page.categories | first }}.jpg" />
   <meta property="og:type" content="article" />
-  <meta name="twitter:image:src" content="http://joelglovier.com/img/ogimgs/{{ page.categories | first }}.jpg">
+  <meta name="twitter:image:src" content="http://datageekette.com/img/ogimgs/{{ page.categories | first }}.jpg">
   <meta name="twitter:card" content="summary_large_image">
   {% else %}
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="http://joelglovier.com/img/ogimgs/default.jpg" />
+  <meta property="og:image" content="http://datageekette.com/img/ogimgs/default.jpg" />
   <meta name="twitter:card" content="summary">
   {% endif %}
 
@@ -55,9 +53,9 @@
   <meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
   {% endif %}
 
-  <meta name="twitter:domain" content="joelglovier.com">
-  <meta name="twitter:site" content="@jglovier">
-  <meta name="twitter:creator" content="@jglovier">
-  <meta property="og:site_name" content="Joel Glovier's blog" />
-  <meta property="og:url" content="http://joelglovier.com{{ page.url | replace:'index.html','' }}/" />
+  <meta name="twitter:domain" content="datageekette.com">
+  <meta name="twitter:site" content="@data_geekette">
+  <meta name="twitter:creator" content="@data_geekette">
+  <meta property="og:site_name" content="Data Geekette Guides" />
+  <meta property="og:url" content="http://datageekette.com{{ page.url | replace:'index.html','' }}/" />
 </head>

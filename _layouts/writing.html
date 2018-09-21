@@ -15,12 +15,12 @@
 
     <section class="pb4">
 
-      <h2 class="text-rounded regular neg-letter-spacing">Would you like to read about <a href="/writing/design">design</a>, <a href="/writing/product">product</a>, or <a href="/writing/user-experience">user experience</a>?</h2>
+      <h2 class="text-rounded regular neg-letter-spacing">Would you like to read about <a href="/writing/datascience">data science</a> and <a href="/writing/machine-learning">machine learning</a>?</h2>
 
       <div class="articles">
         <ul class="article-index list-reset">
           {% for post in site.posts %}
-            {% if post.featured == 'design' %}
+            {% if post.featured == 'data science' %}
               {% include article-index-template.html %}
             {% endif %}
           {% endfor %}
@@ -29,11 +29,9 @@
 
     </section>
 
-    <!-- -->
-
     <section class="py4">
 
-      <h2 class="text-rounded regular neg-letter-spacing">Are you interested in technical topics like <a href="/writing/code">code</a>, <a href="/writing/jekyll">Jekyll</a>, <a href="/writing/sass">Sass</a>, <a href="/writing/css">CSS</a>, <a href="/writing/js">JavaScript</a> or <a href="/writing/wordpress">Wordpress</a>, or <a href="/writing/performance">performance</a>?</h2>
+      <h2 class="text-rounded regular neg-letter-spacing">Are you interested in technical topics like <a href="/writing/code">code</a>, <a href="/writing/python">python programming</a> and <a href="/writing/datascience">best practices</a>?</h2>
 
       <div class="articles">
         <ul class="article-index list-reset">
@@ -47,47 +45,9 @@
 
     </section>
 
-    <!-- -->
-
     <section class="py4">
 
-      <h2 class="text-rounded regular neg-letter-spacing">Are you interested in <a href="/writing/workflow">workflow</a> and <a href="/writing/resources">resources</a>?</h2>
-
-      <div class="articles">
-        <ul class="article-index list-reset">
-          {% for post in site.posts %}
-            {% if post.featured == 'resources' %}
-              {% include article-index-template.html %}
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </div>
-
-    </section>
-
-    <!-- -->
-
-    <section class="py4">
-
-      <h2 class="text-rounded regular neg-letter-spacing">Maybe you're interested in <a href="/writing/business">business</a>, <a href="/writing/marketing">marketing</a>, <a href="/writing/seo">SEO</a>, or <a href="/writing/career">career</a> topics?</h2>
-
-      <div class="articles">
-        <ul class="article-index list-reset">
-          {% for post in site.posts %}
-            {% if post.featured == 'business' %}
-              {% include article-index-template.html %}
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </div>
-
-    </section>
-
-    <!-- -->
-
-    <section class="py4">
-
-      <h2 class="text-rounded regular neg-letter-spacing">Or, maybe you just want to browse articles about <a href="/writing/life">life</a>, <a href="/writing/faith">faith</a>, <a href="/writing/food">food</a>, <a href="/writing/gaming">gaming</a>, <a href="/writing/internets">the internet</a>, or <a href="/writing/quicktips">quicktips</a>?</h2>
+      <h2 class="text-rounded regular neg-letter-spacing">Or, maybe you want to browse articles about <a href="/writing/life">life</a> and <a href="/writing/travel">travel</a>?</h2>
 
       <div class="articles">
         <ul class="article-index list-reset">

@@ -6,10 +6,6 @@
     </h2>
   </div>
 
-<!-- version with illustration instead
-  <img src="/img/section-heading-work.png" alt="Where I've worked" class="section-heading-image flying-ball" width="340">
--->
-
   {% for employer in site.data.employers %}
     <section class="mt4 clearfix home-articles my4 py2 m-my0">
 
@@ -38,16 +34,6 @@
             <div class="text-small mt2 pr4">
               <p>{{ employer.summary }}</p>
             </div>
-
-            {% if employer.dribbble %}
-            <p class="text-small">
-              <a href="{{ employer.dribbble }}" target="_blank">See on dribbble  &rarr;</a>
-            </p>
-            {% elsif employer.hiring %}
-            <p class="text-small">
-              <a href="{{ employer.hiring }}" target="_blank">We're hiring  &rarr;</a>
-            </p>
-            {% endif %}
 
           </div>
         </header>

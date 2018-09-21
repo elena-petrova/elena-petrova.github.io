@@ -134,33 +134,33 @@
 
 // quotes
 
-.quote-wrap.col {
-  float: right;
+// .quote-wrap.col {
+//   float: right;
 
-  .quote {
-    max-width: 448px;
-  }
-}
+//   .quote {
+//     max-width: 448px;
+//   }
+// }
 
-.quote-right {
-  margin-top: -6rem;
+// .quote-right {
+//   margin-top: -6rem;
 
-  .quote { float: right; }
+//   .quote { float: right; }
 
-  @media (max-width: $mobile) {
-    margin-top: 3rem;
-  }
-}
+//   @media (max-width: $mobile) {
+//     margin-top: 3rem;
+//   }
+// }
 
-.quote-left {
-  margin-top: 6rem;
+// .quote-left {
+//   margin-top: 6rem;
 
-  .quote { float: left; }
+//   .quote { float: left; }
 
-  @media (max-width: $mobile) {
-    margin-top: 3rem;
-  }
-}
+//   @media (max-width: $mobile) {
+//     margin-top: 3rem;
+//   }
+// }
 
 // personal projects
 
