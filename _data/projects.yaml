@@ -1,6 +1,6 @@
 ---
 - name: Data Analytics w/ Python
-  url: https://hospitalrun.io
+  # url: https://hospitalrun.io
   role: Data Analyst
   timeframe: 6 months
   summary: |
@@ -12,7 +12,7 @@
   stars: "102"
 
 - name: Data Science w/ Python
-  url: http://devtees.com
+  # url: http://devtees.com
   role: Data Scientist
   timeframe: 10 months
   summary: |
