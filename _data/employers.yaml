@@ -4,70 +4,31 @@
   role: Machine Learning Engineer
   timeframe: 2018 – Present
   summary: |
-    Design and develop data-driven solutions for the core business product - NLP Travel Assistance System. Extended functionalities of the platform.
+    Designing and developing data-driven solutions for the core machine learning product - NLP Travel Assistance System. Working with unstructured text data and extending functionalities of the NLP system.
   learned: #
   has_case_studies: false
   image: /img/comtravo_bw.png
-  image_alt: Comtravo's core product concept
+  image_alt: comtravo logo
 
 - name: AUTO1
   url: https://auto1.com
   role: Data Scientist
   timeframe: 2017 – 2018
   summary: |
-    Designed and built data processing and machine learning pipelines, as well as developed supervised and unsupervised machine learning models for predictive modeling that are used in production system for the price prediction platform.
-  learned: #
+    Designed and built data processing and feature engineering pipelines, as well as developed supervised and unsupervised machine learning models for predictive modeling that are used in production system for the price prediction platform.
+    Performed exploratory and ad-hoc Data Analyses and communicated intermediate and final results to the business side.
+  learned: Git & GitHub, Terminal, Object-Oriented Programming, Unit Testing.
   has_case_studies: false
   image: /img/auto1_bw.png
-  image_alt: 
-#  articles_list:
-#    - title: Improving code review on GitHub
-#      summary: Iterating on a software development workflow for 20M users by removing friction and barriers.
-#      url: /case-studies/github/improving-code-review-on-github/
-#      image: /img/case-studies/case-study-github-improving-code-review-banner-thumbnail.png
+  image_alt: auto1 logo
 
-# - name: AppendTo
-#   url: https://appendto.com/
-#   role: Visual Design Engineer, Tech Lead
-#   timeframe: 2012 – 2013
-#   summary: |
-#     At AppendTo, a front-end shop, I did HTML, CSS, and JavaScript implementations of responsive websites such as <a href="http://time.com/">TIME.com</a>, <a href="https://www.zumba.com/en-US">Zumba.com</a>, and <a href="http://www.bloomberg.com/">Bloomberg.com</a>.
-#   dribbble: https://dribbble.com/jag/projects/555349-AppendTo-work
-#   learned: #
-#   articles_layout: l_1_up
-#   articles_list:
-#     - title: Implementing the responsive redesign of Time.com
-#       summary: Working with the TIME.com web team, Doug Neiner and I implemented a complete responsive redesign of TIME.com to help make content more accessible to readers across devices. Read about some of the challenges and opportunities we discovered in implementing responsive design.
-#       url: /case-studies/appendto/implementing-the-responsive-redesign-of-time-com/
-#       image: /img/case-studies/case-study-time-responsive-redesign-thumbnail.png
-
-# - name: CURE International
-#   url: https://cure.org/
-#   role: Principal Designer
-#   timeframe: 2011 – 2012
-#   role_2: Web & Graphic Designer
-#   timeframe_2: 2009 – 2011
-#   summary: |
-#     I owned design for an 1500 person international NGO that operated a network of charitable hospitals around the world.
-#   dribbble: https://dribbble.com/jag/projects/560305-CURE-International-work
-#   learned: #
-#   has_case_studies: false
-#   image: /img/case-studies/case-study-curekids-banner.png
-#   image_alt: workflow illustration of code review collaboration on GitHub
-# #  articles_list:
-# #    - title: Designing a software platform for social impact
-# #      summary: Using social media integrations to personalize an online giving experience.
-# #      url: #
-# #      image: /img/case-studies/case-study-curekids-thumbnail.png
-
-# - name: JAG Design Ideas
-#   url: #
-#   role: Founder
-#   timeframe: 2004 – 2016
-#   summary: |
-#     Provided professional design and development services for a range of clients in the small business and startup space.
-#   dribbble: https://dribbble.com/jag/projects
-#   learned: #
-#   has_case_studies: false
-#   image: /img/freelance-client-logos.png
-#   image_alt: My clients have included organizations such as StackOverflow, AndCulture, CURE International, Spreadshirt, Papertrail, and many more.
+- name: Scrivito
+  url: https://www.scrivito.com/
+  role: Marketing Intern
+  timeframe: 2016 - 2017
+  summary: |
+    Helped manage digital marketing campaigns, analysed Google Analytics data and proposed solutions to the business problems.
+  #learned: 
+  has_case_studies: false
+  image: /img/scrivito.png
+  image_alt: scrivito logo

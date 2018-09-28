@@ -21,13 +21,3 @@ I am still searching for myself, but my way has become clearer already. And ever
 I enjoy [writing](/writing/) about stuff I learn. Occasioanylly, I [speak](/speaking/) at local conferences and meetups.
 During the period 2016/2018 I was co-creating and mentoring Data Science with Python curriculums and Computer Science courses for non-profit organizations [FrauenLoop](https://www.frauenloop.org/) and [Future Legends Berlin](https://www.facebook.com/futurelegendsberlin/).
 Now I am writing articles and creating [self-learning guides](/#guides) for aspiring Data Professionals that have no initial background in the field.
-
-<!--
-- This site was built with the static site generator [Jekyll](https://jekyllrb.com/), utilizing the personal website templatate of [wonderful Joel Glovier](http://github.com/jglovier), and hosted on [GitHub Pages](https://pages.github.com/). Source code is available on [GitHub](github.com/jglovier/jglovier.github.io/).
-- Typography courtesy of Google Fonts:
-  - [Montserrat](https://fonts.google.com/specimen/Montserrat) (headings)
-  - [Varela Round](https://fonts.google.com/specimen/Varela+Round) (short body copy)
-  - [Rooney Sans](https://typekit.com/fonts/rooney-sans) (long form body copy)
-  - [Lora](https://fonts.google.com/specimen/Lora) (where serif is used)
-- [Social media icons](https://creativemarket.com/gedy/21158-Vector-Social-Media-Icons-Bundle) by [Gedy Leon](https://creativemarket.com/gedy)
-- [Basscss](http://basscss.com/) utility classes by [Jxnblk](http://jxnblk.com/)-->

@@ -15,12 +15,12 @@
 
     <section class="pb4">
 
-      <h2 class="text-rounded regular neg-letter-spacing">Would you like to read about <a href="/writing/datascience">data science</a> and <a href="/writing/machine-learning">machine learning</a>?</h2>
+      <h2 class="text-rounded regular neg-letter-spacing">Would you like to read about <a href="/writing/data-science">data science</a> and <a href="/writing/machine-learning">machine learning</a>?</h2>
 
       <div class="articles">
         <ul class="article-index list-reset">
           {% for post in site.posts %}
-            {% if post.featured == 'data science' %}
+            {% if post.featured == 'data' %}
               {% include article-index-template.html %}
             {% endif %}
           {% endfor %}
@@ -31,7 +31,7 @@
 
     <section class="py4">
 
-      <h2 class="text-rounded regular neg-letter-spacing">Are you interested in technical topics like <a href="/writing/code">code</a>, <a href="/writing/python">python programming</a> and <a href="/writing/datascience">best practices</a>?</h2>
+      <h2 class="text-rounded regular neg-letter-spacing">Are you interested in technical topics like <a href="/writing/code">code</a>, <a href="/writing/python">python programming</a> and <a href="/writing/code">best practices</a>?</h2>
 
       <div class="articles">
         <ul class="article-index list-reset">
@@ -47,12 +47,12 @@
 
     <section class="py4">
 
-      <h2 class="text-rounded regular neg-letter-spacing">Or, maybe you want to browse articles about <a href="/writing/life">life</a> and <a href="/writing/travel">travel</a>?</h2>
+      <h2 class="text-rounded regular neg-letter-spacing">Or, maybe you want to browse articles about <a href="/writing/self-learning">self-learning</a>, <a href="/writing/life">life</a> and <a href="/writing/travel">travel</a>?</h2>
 
       <div class="articles">
         <ul class="article-index list-reset">
           {% for post in site.posts %}
-            {% if post.featured == 'misc' %}
+            {% if post.featured == 'learn' %}
               {% include article-index-template.html %}
             {% endif %}
           {% endfor %}

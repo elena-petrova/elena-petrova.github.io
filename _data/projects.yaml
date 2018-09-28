@@ -1,32 +1,36 @@
 ---
 - name: Data Analytics w/ Python
-  # url: https://hospitalrun.io
+  # url: https://
   role: Data Analyst
   timeframe: 6 months
   summary: |
-    Eager to become a Data Analyst, but it is not easy with a full-time job?
-    Spend two hours per day to finish this six-months Data Analytics with Python curriculum.
-    No certificate, but theoretical and practical knowledge.
+    To Be Announced
+  # Eager to become a Data Analyst, but full-time job and limited budget are on the way?
+  # Spend two hours per day to finish this 6-months Data Analytics with Python guide.
+  # No certificate, but theoretical and practical knowledge which will land you a job.
   project_image: /img/data-analyst-6m.jpg
-  downloads: "15"
-  stars: "102"
+  # downloads: "15"
+  # stars: "79"
 
 - name: Data Science w/ Python
-  # url: http://devtees.com
+  # url: http://
   role: Data Scientist
   timeframe: 10 months
   summary: |
-    Want to become a Data Scientist, but again, full-time job is on the way?
-    Pick this path instead and spend two hours per day to finish this ten-months Data Science with Python curriculum.
-    No certificate, but theoretical and practical knowledge.
+    To Be Announced
+  # Want to become a Data Scientist, but full-time job and limited budget are on the way?
+  # Pick this path and spend two hours per day to finish the 10-months Data Science with Python guide.
+  # No certificate, but theoretical and practical knowledge which will land you a job.
   project_image: /img/data-scientist-10m.jpg
-  downloads: "30"
-  stars: "130"
+  # downloads: "30"
+  # stars: "107"
 
 - name: Machine Learning
   # url: machine_learning_course_url
   role: Machine Learning Engineer
   timeframe: 10 months
   summary: |
-    TBA
+    To Be Announced
   project_image: /img/machine-learning.jpg
+  # downloads: "50"
+  # stars: "201"
