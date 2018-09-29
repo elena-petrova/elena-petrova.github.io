@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-### 👋 Hi! I’m Elena and I do machine learning at [Comtravo](https://www.comtravo.com/)
+### 👋 Hi! I’m Elena and I do machine learning.
 
 Let me tell you right away, I don't have a typical background, as one might say, for what I do. I hold a Bachelor's Degree of Economics and Management. No Computer Science magic.
 
