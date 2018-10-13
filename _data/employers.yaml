@@ -7,7 +7,7 @@
     Designing and developing data-driven solutions for the core machine learning product - NLP Travel Assistance System. Working with unstructured text data and extending functionalities of the NLP system.
   learned: #
   has_case_studies: false
-  image: /img/comtravo_bw.png
+  image: /img/comtravo_bw.jpg
   image_alt: comtravo logo
 
 - name: AUTO1
@@ -19,7 +19,7 @@
     Performed exploratory and ad-hoc Data Analyses and communicated intermediate and final results to the business side.
   learned: Git & GitHub, Terminal, Object-Oriented Programming, Unit Testing.
   has_case_studies: false
-  image: /img/auto1_bw.png
+  image: /img/auto1_bw.jpg
   image_alt: auto1 logo
 
 - name: Scrivito
@@ -30,5 +30,5 @@
     Helped manage digital marketing campaigns, analysed Google Analytics data and proposed solutions to the business problems.
   #learned: 
   has_case_studies: false
-  image: /img/scrivito.png
+  image: /img/scrivito.jpg
   image_alt: scrivito logo
