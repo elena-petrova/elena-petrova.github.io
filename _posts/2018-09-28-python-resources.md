@@ -20,7 +20,7 @@ An interpreted high-level programming language for general-purpose programming:
 
 Python has a design philosophy that emphasizes **code readability** - the ease with which a human reader can comprehend the purpose and operation of source code.
 
-![python code resources](/post-images/python.jpg)
+<!--![python code resources](/post-images/python.jpg)-->
 
 ## Python features 
 
