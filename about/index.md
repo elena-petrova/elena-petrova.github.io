@@ -20,4 +20,4 @@ I am still searching for myself, but my way has become clearer already. And ever
 ### Contribution
 I enjoy [writing](/writing/) about stuff I learn. Occasioanylly, I speak at local conferences and meetups.
 During the period 2016/2018 I was co-creating and mentoring Data Science with Python curriculums and Computer Science courses for non-profit organizations [FrauenLoop](https://www.frauenloop.org/) and [Future Legends Berlin](https://www.facebook.com/futurelegendsberlin/).
-Now I am writing articles and creating [self-learning guides](/#guides) for aspiring Data Professionals that have no initial background in the field.
+<!--Now I am writing articles and creating [self-learning guides](/#guides) for aspiring Data Professionals that have no initial background in the field.-->
