@@ -4,8 +4,7 @@
   role: Data Scientist / Machine Learning Engineer
   timeframe: 2018 – Present
   summary: |
-    Extracting patterns and heuristics to improve product development trajectory in booking recommendations and offer rankings.
-    Communicating with Engineering, Data Engineering and Product teams. 
+    Extracting patterns and heuristics to improve product development trajectory in booking recommendations and offer rankings. Communicating with Engineering, Data Engineering and Product teams. 
   learned: aws s3, Docker, PostreSQL
   has_case_studies: false
   image: /img/comtravo_bw.jpg
