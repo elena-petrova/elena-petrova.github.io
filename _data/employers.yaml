@@ -1,11 +1,12 @@
 ---
 - name: Comtravo
   url: https://comtravo.com
-  role: Machine Learning Engineer
+  role: Data Scientist / Machine Learning Engineer
   timeframe: 2018 – Present
   summary: |
-    Designing and developing data-driven solutions for the core machine learning product - NLP Travel Assistance System. Working with unstructured text data and extending functionalities of the NLP system.
-  learned: #
+    Extracting patterns and heuristics to improve product development trajectory in booking recommendations and offer rankings.
+    Communicating with Engineering, Data Engineering and Product teams. 
+  learned: aws s3, Docker, PostreSQL
   has_case_studies: false
   image: /img/comtravo_bw.jpg
   image_alt: comtravo logo
