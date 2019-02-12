@@ -4,8 +4,8 @@
   role: Data Scientist / Machine Learning Engineer
   timeframe: 2018 – Present
   summary: |
-    Extracting patterns and heuristics to improve product development trajectory in booking recommendations and offer rankings. Communicating with Engineering, Data Engineering and Product teams. 
-  learned: aws s3, Docker, PostreSQL
+    Extracting patterns and heuristics to improve product development trajectory. Working on offer recommendations (knowledge-based RS) and ranking system. Communicating with Engineering, Data Engineering and Product teams. 
+  learned: aws, Docker, PostreSQL, MongoDB
   has_case_studies: false
   image: /img/comtravo_bw.jpg
   image_alt: comtravo logo
@@ -15,8 +15,8 @@
   role: Data Scientist
   timeframe: 2017 – 2018
   summary: |
-    Designed and built data processing and feature engineering pipelines, as well as developed supervised and unsupervised machine learning models for predictive modeling that are used in production system for the price prediction platform.
-    Performed exploratory and ad-hoc Data Analyses and communicated intermediate and final results to the business side.
+    Built data processing and feature engineering pipelines, as well as developed supervised and unsupervised machine learning models for predictive price modeling that are used in the production system.
+    Performed exploratory and ad-hoc Data Analyses and communicated intermediate as well as final results to the stakeholders.
   learned: Git & GitHub, Terminal, Object-Oriented Programming, Unit Testing.
   has_case_studies: false
   image: /img/auto1_bw.jpg
