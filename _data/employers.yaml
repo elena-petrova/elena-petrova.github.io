@@ -2,10 +2,10 @@
 - name: Comtravo
   url: https://comtravo.com
   role: Data Scientist / Machine Learning Engineer
-  timeframe: 2018 – Present
+  timeframe: October 2018 – April 2018
   summary: |
-    Extracting patterns and heuristics to improve product development trajectory. Working on offer recommendations (knowledge-based RS) and ranking system. Communicating with Engineering, Data Engineering and Product teams. 
-  learned: aws, Docker, PostreSQL, MongoDB
+    Extracting patterns and heuristics to improve product development trajectory in booking recommendations and offer rankings. Communicating with Engineering, Data Engineering and Product teams. 
+  learned: aws s3, Docker, PostreSQL
   has_case_studies: false
   image: /img/comtravo_bw.jpg
   image_alt: comtravo logo
@@ -13,10 +13,10 @@
 - name: AUTO1
   url: https://auto1.com
   role: Data Scientist
-  timeframe: 2017 – 2018
+  timeframe: August 2017 – September 2018
   summary: |
-    Built data processing and feature engineering pipelines, as well as developed supervised and unsupervised machine learning models for predictive price modeling that are used in the production system.
-    Performed exploratory and ad-hoc Data Analyses and communicated intermediate as well as final results to the stakeholders.
+    Designed and built data processing and feature engineering pipelines, as well as developed supervised and unsupervised machine learning models for predictive modeling that are used in production system for the price prediction platform.
+    Performed exploratory and ad-hoc Data Analyses and communicated intermediate and final results to the business side.
   learned: Git & GitHub, Terminal, Object-Oriented Programming, Unit Testing.
   has_case_studies: false
   image: /img/auto1_bw.jpg
@@ -25,7 +25,7 @@
 - name: Scrivito
   url: https://www.scrivito.com/
   role: Marketing Intern
-  timeframe: 2016 - 2017
+  timeframe: May 2016 - August 2016
   summary: |
     Helped manage digital marketing campaigns, analysed Google Analytics data and proposed solutions to the business problems.
   #learned: 
