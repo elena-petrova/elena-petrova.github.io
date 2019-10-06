@@ -1,4 +1,15 @@
 ---
+- name: Honeypot.io
+  url: https://honeypot.io
+  role: Data Scientist 
+  timeframe: September 2019 – present
+  summary: |
+    Working on talent recommendations. Communicating with Engineering and Product teams. 
+  learned: PostreSQL
+  has_case_studies: false
+  image: /img/honeypot_bw.jpg
+  image_alt: honeypot logo
+
 - name: Comtravo
   url: https://comtravo.com
   role: Data Scientist / Machine Learning Engineer
