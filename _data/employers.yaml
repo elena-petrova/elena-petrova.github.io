@@ -4,7 +4,7 @@
   role: Data Scientist 
   timeframe: September 2019 – present
   summary: |
-    Working on talent recommendations. Communicating with Engineering and Product teams. 
+    Automated team OKRs definitions and DB imports. Developing supervised machine learning models.
   learned: PostreSQL
   has_case_studies: false
   image: /img/honeypot_bw.jpg
@@ -13,9 +13,9 @@
 - name: Comtravo
   url: https://comtravo.com
   role: Data Scientist / Machine Learning Engineer
-  timeframe: October 2018 – April 2018
+  timeframe: October 2018 – July 2018
   summary: |
-    Extracting patterns and heuristics to improve product development trajectory in booking recommendations and offer rankings. Communicating with Engineering, Data Engineering and Product teams. 
+    Extracted patterns and heuristics for product development trajectory in booking recommendations and offer rankings. Wrote clean and consistent documentations for processes and business definitions. Communicated with Engineering, Data Engineering and Product teams. 
   learned: aws s3, Docker, PostreSQL
   has_case_studies: false
   image: /img/comtravo_bw.jpg
