@@ -15,7 +15,7 @@
 - name: Comtravo
   url: https://comtravo.com
   role: Machine Learning Engineer
-  timeframe: October 2018 – July 2018
+  timeframe: October 2018 – July 2019
   summary: |
     Extracted patterns and heuristics for product development trajectory.
     Worked on the knowledge-based recommender system.
@@ -38,13 +38,13 @@
   image: /img/auto1_bw.jpg
   image_alt: auto1 logo
 
-- name: Scrivito
-  url: https://www.scrivito.com/
-  role: Marketing Intern
-  timeframe: May 2016 - August 2016
-  summary: |
-    Helped manage digital marketing campaigns, analysed Google Analytics data and proposed solutions to the business problems.
-  #learned: 
-  has_case_studies: false
-  image: /img/scrivito.jpg
-  image_alt: scrivito logo
+# - name: Scrivito
+#   url: https://www.scrivito.com/
+#   role: Marketing Intern
+#   timeframe: May 2016 - August 2016
+#   summary: |
+#     Helped manage digital marketing campaigns, analysed Google Analytics data and proposed solutions to the business problems.
+#   #learned: 
+#   has_case_studies: false
+#   image: /img/scrivito.jpg
+#   image_alt: scrivito logo
