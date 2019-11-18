@@ -1,36 +1,49 @@
 ---
-- name: Data Analytics w/ Python
-  # url: https://
-  role: Data Analyst
-  timeframe: 6 months
-  summary: |
-    To Be Announced
-  # Eager to become a Data Analyst, but full-time job and limited budget are on the way?
-  # Spend two hours per day to finish this 6-months Data Analytics with Python guide.
-  # No certificate, but theoretical and practical knowledge which will land you a job.
-  project_image: /img/data-analyst-6m.jpg
-  # downloads: "15"
-  # stars: "79"
+# - name: Data Analytics w/ Python
+#   # url: https://
+#   role: Data Analyst
+#   timeframe: 6 months
+#   summary: |
+#     To Be Announced
+#   # Eager to become a Data Analyst, but full-time job and limited budget are on the way?
+#   # Spend two hours per day to finish this 6-months Data Analytics with Python guide.
+#   # No certificate, but theoretical and practical knowledge which will land you a job.
+#   project_image: /img/data-analyst-6m.jpg
+#   # downloads: "15"
+#   # stars: "79"
 
-- name: Data Science w/ Python
-  # url: http://
-  role: Data Scientist
-  timeframe: 10 months
+- name: Data Science with Python Course
+  url: https://frauenloop.org
+  role: Cururriculum Writer and Mentor
+  timeframe: 8 months
   summary: |
-    To Be Announced
+    Wrote "Data Science with Python" curriculum,
+    lead live workshops and mentored over 20 students.
   # Want to become a Data Scientist, but full-time job and limited budget are on the way?
   # Pick this path and spend two hours per day to finish the 10-months Data Science with Python guide.
   # No certificate, but theoretical and practical knowledge which will land you a job.
-  project_image: /img/data-scientist-10m.jpg
+  project_image: /img/frauenloop_course.jpg
   # downloads: "30"
   # stars: "107"
 
-- name: Machine Learning
-  # url: machine_learning_course_url
-  role: Machine Learning Engineer
-  timeframe: 10 months
+- name: Introduction to Computational Thinking and Python Programming
+  url: https://www.facebook.com/futurelegendsberlin
+  role: Curriculum Co-Writer and Educator
+  timeframe: 2 months
   summary: |
-    To Be Announced
-  project_image: /img/machine-learning.jpg
-  # downloads: "50"
-  # stars: "201"
+    Co-wrote and taught 4 hours longs courses to two groups of girls (from 6 to 10 y.o.)
+  # Want to become a Data Scientist, but full-time job and limited budget are on the way?
+  # Pick this path and spend two hours per day to finish the 10-months Data Science with Python guide.
+  # No certificate, but theoretical and practical knowledge which will land you a job.
+  project_image: /img/futurelegends_course.jpg
+
+
+# - name: Machine Learning
+#   # url: machine_learning_course_url
+#   role: Machine Learning Engineer
+#   timeframe: 10 months
+#   summary: |
+#     To Be Announced
+#   project_image: /img/machine-learning.jpg
+#   # downloads: "50"
+#   # stars: "201"
