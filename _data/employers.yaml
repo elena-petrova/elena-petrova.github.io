@@ -1,4 +1,15 @@
 ---
+- name: Thinkful
+  url: https://thinkful.com
+  role: Data Science Course Mentor
+  timeframe: December 2019 – present
+  summary: |
+      Coaching and 1-on-1 mentoring Data Science Course students.
+  learned:
+  has_case_studies: false
+  image: /img/thinkful_bw.png
+  image_alt: thinkful logo
+
 - name: Honeypot.io
   url: https://honeypot.io
   role: Data Scientist 
@@ -38,13 +49,13 @@
   image: /img/auto1_bw.jpg
   image_alt: auto1 logo
 
-- name: Scrivito
-  url: https://www.scrivito.com/
-  role: Marketing Intern
-  timeframe: May 2016 - August 2016
-  summary: |
-    Helped manage digital marketing campaigns, analysed Google Analytics data and proposed solutions to the business problems.
-  #learned: 
-  has_case_studies: false
-  image: /img/scrivito.jpg
-  image_alt: scrivito logo
+# - name: Scrivito
+#   url: https://www.scrivito.com/
+#   role: Marketing Intern
+#   timeframe: May 2016 - August 2016
+#   summary: |
+#     Helped manage digital marketing campaigns, analysed Google Analytics data and proposed solutions to the business problems.
+#   #learned: 
+#   has_case_studies: false
+#   image: /img/scrivito.jpg
+#   image_alt: scrivito logo
