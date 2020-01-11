@@ -4,7 +4,13 @@
   role: Data Science Course Mentor
   timeframe: December 2019 – present
   summary: |
-      Coaching and 1-on-1 mentoring Data Science Course students.
+      Career coaching Data Science Course students.
+      <br><br>
+      One-on-One Mentoring.
+      <br><br>
+      Checking homework assignments and correcting.
+      <br><br>
+      Online pair-programming.
   learned:
   has_case_studies: false
   image: /img/thinkful_bw.png
@@ -15,9 +21,11 @@
   role: Data Scientist 
   timeframe: September 2019 – present
   summary: |
-    Automated team OKRs definitions and DB imports.
-    Wrote clean and consistent documentations for processes and business definitions.
-    Developing supervised machine learning models.
+    Developing, implementing, evaluating supervised machine learning models (RF, grid search, pipeline...).
+    <br><br>
+    Developed a score prediction system evaluating talent success rate on the platform to drive talent team performance and time optimization (flask).
+    <br><br>
+    Automated KPIs data reports (SQL models, gspread) for internal and external stakeholders.
   learned:
   has_case_studies: false
   image: /img/honeypot_bw.jpg
@@ -28,10 +36,13 @@
   role: Machine Learning Engineer
   timeframe: October 2018 – July 2019
   summary: |
-    Extracted patterns and heuristics for product development trajectory.
-    Worked on the knowledge-based recommender system.
-    Communicated with Engineering, Data Engineering and Product teams.
-    Took active participation in interviews.
+    Extracted patterns for recommender system knowledge base and ranking (pandas pivot, seaborn).
+    <br><br>
+    Extended travel recommender system and its APIs, incl. unit and integration tests (flask, pytest, pylint).
+    <br><br>
+    Propagated a practice of consistent documentation and participated in hiring and onboarding processes.
+    <br><br>
+    Daily communicated with engineering, data engineering, and product teams.
   learned: aws s3, Docker, PostreSQL
   has_case_studies: false
   image: /img/comtravo_bw.jpg
@@ -43,7 +54,14 @@
   timeframe: August 2017 – September 2018
   summary: |
     Designed and built data processing and feature engineering pipelines, as well as developed supervised and unsupervised machine learning models for predictive modeling that are used in production system for the price prediction platform.
+    <br><br>
     Performed exploratory and ad-hoc Data Analyses and communicated intermediate and final results to the business side.
+    <br><br>
+    Carried out time series modeling with ARIMA and Prophet.
+    <br><br>
+    Developed python packages for pre-processing and feature engineering pipelines (sklearn).
+    <br><br>
+    Using NLP framework spacy detected malfunctions in item descriptions, Feature engineering.
   learned: Git & GitHub, Terminal, Object-Oriented Programming, Unit Testing.
   has_case_studies: false
   image: /img/auto1_bw.jpg
