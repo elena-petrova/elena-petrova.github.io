@@ -33,7 +33,7 @@
 
 - name: Comtravo
   url: https://comtravo.com
-  role: Machine Learning Engineer
+  role: Data Scientist - Product
   timeframe: October 2018 – July 2019
   summary: |
     Extracted patterns for recommender system knowledge base and ranking (pandas pivot, seaborn).
