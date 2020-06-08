@@ -16,20 +16,16 @@
   image: /img/thinkful_bw.png
   image_alt: thinkful logo
 
-- name: Honeypot.io
-  url: https://honeypot.io
+- name: Digital Science
+  url: https://www.digital-science.com/products/consultancy/
   role: Data Scientist 
-  timeframe: September 2019 – present
+  timeframe: March 2020 – present
   summary: |
-    Developing, implementing, evaluating supervised machine learning models (RF, grid search, pipeline...).
-    <br><br>
-    Developed a score prediction system evaluating talent success rate on the platform to drive talent team performance and time optimization (flask).
-    <br><br>
-    Automated KPIs data reports (SQL models, gspread) for internal and external stakeholders.
+    Carried out custom reporting and analysis to research institutions and pharmaceutical companies.
   learned:
   has_case_studies: false
-  image: /img/honeypot_bw.jpg
-  image_alt: honeypot logo
+  image: /img/digital_science.jpg
+  image_alt: digital science logo
 
 - name: Comtravo
   url: https://comtravo.com
@@ -66,14 +62,3 @@
   has_case_studies: false
   image: /img/auto1_bw.jpg
   image_alt: auto1 logo
-
-# - name: Scrivito
-#   url: https://www.scrivito.com/
-#   role: Marketing Intern
-#   timeframe: May 2016 - August 2016
-#   summary: |
-#     Helped manage digital marketing campaigns, analysed Google Analytics data and proposed solutions to the business problems.
-#   #learned: 
-#   has_case_studies: false
-#   image: /img/scrivito.jpg
-#   image_alt: scrivito logo
