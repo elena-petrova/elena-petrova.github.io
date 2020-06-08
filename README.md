@@ -11,12 +11,13 @@ Many of the post images are retouched versions of photos I found at [Unsplash](h
 
 ## Running locally
 
-Clone locally via GitHub Desktop, or via CLI: git clone https://github.com/jglovier/jglovier.github.io.git
-Install dependencies: bundle install
-Run the Jekyll Server: bundle exec jekyll serve
-View in browser at http://localhost:4000
+Clone locally via GitHub Desktop, or via CLI:
+- git clone <>
+- Install dependencies: bundle install
+- Run the Jekyll Server: bundle exec jekyll serve
+- View in browser at http://localhost:4000
 
-:## Licensing
+## Licensing
 
 Feel free to inspect the code structure, and reuse what is appropriate. But please respect that the files in the following directories are Copyright Joel Andrew Glovier. You may not reuse anything therein without my written permission:
 - _posts/
