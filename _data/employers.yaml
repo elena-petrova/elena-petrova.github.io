@@ -1,31 +1,32 @@
 ---
+- name: Digital Science
+  url: https://www.digital-science.com/products/consultancy/
+  role: Data Scientist Consultant
+  timeframe: March 2020 – present
+  summary: |
+    Performed in-depth analysis on publications, patents, grants, trials, researchers and publishers data.
+    <br><br>
+    Developed custom and automated reports for research institutions and pharmaceutical customers.
+    <br><br>
+    Built interactive graphs and tables with plotly python for external use.
+    <br><br>
+  learned:
+  has_case_studies: false
+  image: /img/digital_science.jpg
+  image_alt: digital science logo
+
 - name: Thinkful
   url: https://thinkful.com
   role: Data Science Course Mentor
   timeframe: December 2019 – present
   summary: |
-      Career coaching Data Science Course students.
+      Online coaching Data Science and Data Analytics courses students.
       <br><br>
-      One-on-One Mentoring.
-      <br><br>
-      Checking homework assignments and correcting.
-      <br><br>
-      Online pair-programming.
+      1-on-1 mentoring.
   learned:
   has_case_studies: false
   image: /img/thinkful_bw.png
   image_alt: thinkful logo
-
-- name: Digital Science
-  url: https://www.digital-science.com/products/consultancy/
-  role: Data Scientist 
-  timeframe: March 2020 – present
-  summary: |
-    Carried out custom reporting and analysis to research institutions and pharmaceutical companies.
-  learned:
-  has_case_studies: false
-  image: /img/digital_science.jpg
-  image_alt: digital science logo
 
 - name: Comtravo
   url: https://comtravo.com
